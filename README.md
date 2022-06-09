@@ -1,5 +1,7 @@
 # vue-firebase-auth
 
+Authentication application build with Vue.js, contains forgot password functionality as well.
+
 ## Project setup
 ```
 yarn install
